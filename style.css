@@ -1,0 +1,32 @@
+body{
+    background-color: hotpink;
+    text-align: center;
+    align-self: center;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-radius: 30px;
+}
+h1{
+    text-shadow: 2px 2px blue;
+}
+h2{
+    color: green;
+}
+p{
+    font-style: italic;
+    font-size: 20px;
+    color: brown;
+}
+#1img{
+  border-radius: 250px;     
+}
